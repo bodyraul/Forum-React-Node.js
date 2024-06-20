@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b2dd3c9.css",
+    "main.js": "/static/js/main.c08df59a.js",
+    "static/media/dameTrefle.svg": "/static/media/dameTrefle.1a95fdcce14e69a81afb8f496be92687.svg",
+    "static/media/dameCoeur.svg": "/static/media/dameCoeur.41f1319788e5f799616df69e36e300cb.svg",
+    "static/media/roiTrefle.svg": "/static/media/roiTrefle.c127a7df3f9c28750340e42478c69407.svg",
+    "static/media/roiCoeur.svg": "/static/media/roiCoeur.53e292affd2a2bc57f02cd8816b7511c.svg",
+    "static/media/valetTrefle.svg": "/static/media/valetTrefle.deef348b1e3171495a6b16264e6f7263.svg",
+    "static/media/likeVert.svg": "/static/media/likeVert.6890fcc23a987ed4fe36789bbc042e8f.svg",
+    "static/media/likeNoir.svg": "/static/media/likeNoir.e67bf62663c2c0775cb589cabff2bda1.svg",
+    "static/media/valetCarreau.svg": "/static/media/valetCarreau.db45fc81b65bcec6de322d1a8069a9f4.svg",
+    "static/media/indeedlast.svg": "/static/media/indeedlast.7b35e1c285fc16be1bcebb23824ebe9b.svg",
+    "static/media/asTrefle.svg": "/static/media/asTrefle.087ed80abae2c70e7357d2bb76d7c0c2.svg",
+    "static/media/asPique.svg": "/static/media/asPique.a9d38d4acd469730b72f51a7bd05e169.svg",
+    "static/media/asCoeur.svg": "/static/media/asCoeur.69323cfa9b45774fd7433805594ce086.svg",
+    "index.html": "/index.html",
+    "static/media/signalerRouge.svg": "/static/media/signalerRouge.43a338f9a2449fb69b6684a8207fe307.svg",
+    "static/media/signaler.svg": "/static/media/signaler.abb6fd5890ca8f517c3983dde8bc5a83.svg",
+    "main.5b2dd3c9.css.map": "/static/css/main.5b2dd3c9.css.map",
+    "main.c08df59a.js.map": "/static/js/main.c08df59a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b2dd3c9.css",
+    "static/js/main.c08df59a.js"
+  ]
+}

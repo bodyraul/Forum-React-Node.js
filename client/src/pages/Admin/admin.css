@@ -1,0 +1,102 @@
+.messageNonAdmin{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+
+.linkSignalementAdmin{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+
+.linkSignalementAdmin button, .listeSignalementsPageAdmin button,.bouttonAdminBanSup{
+   border: red solid 1px;
+   background-color: white;
+   color: red;
+   padding: 20px;
+   font-size: 20px;
+   transition: background-color 0.5s,color 0.5s;
+}
+
+.linkSignalementAdmin button:hover, .listeSignalementsPageAdmin button:hover,.bouttonAdminBanSup:hover{
+    border: red solid 1px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+ }
+
+.texteExplicationAdminPage{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 28px;
+    line-height: 50px;
+    letter-spacing: 2px;
+}
+
+.listeSignalementsPageAdmin ,.intitulelisteSignalementsPageAdmin{
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 22px;
+    margin-bottom: 50px;
+
+}
+.intitulelisteSignalementsPageAdmin{
+    font-weight: bold;
+}
+.listeSignalementsPageAdmin span:nth-child(4),.intitulelisteSignalementsPageAdmin span:nth-child(4){
+   width: 50%;
+
+}
+.listeSignalementsPageAdmin span:nth-child(1),.spanNomContenu,.listeSignalementsPageAdmin span:nth-child(3),.intitulelisteSignalementsPageAdmin span:nth-child(1),.intitulelisteSignalementsPageAdmin span:nth-child(2),.intitulelisteSignalementsPageAdmin span:nth-child(3){
+    width: 10%;
+   
+ }
+ .intitulelisteSignalementsPageAdmin span:nth-child(5){
+    width: 10%;
+ 
+ }
+
+.gererLesSignalementsPageAdmin{
+    width: 100%;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 25px;
+}
+
+.checkboxChoixAdminPage{
+   width: 40%;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-around;
+}
+
+.messageUtilisateurPageAdmin{
+    color: red;
+}
+
+.classeInvisibleDiv{
+    opacity: 0;
+}
+
+.nonvisiblebouton{
+    opacity: 0;
+}
+
+.messageSignalementTraiter{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}

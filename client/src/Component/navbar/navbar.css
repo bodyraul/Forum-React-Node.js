@@ -1,0 +1,56 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+
+.navbar{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 100px;
+    border: 1px solid #005779;
+}
+
+
+.premierLink,.deuxiemeLink,.troisiemeLink,.quatriemeLink{
+    color: #005779;
+    text-decoration: none;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    font-size: 25px;
+    line-height: 80px;
+    background-color: white; 
+    transition : background-color 0.8s , color 0.8s ;
+}
+
+.premierLink:hover,.deuxiemeLink:hover,.troisiemeLink:hover,.quatriemeLink:hover {
+    color: white;
+    background-color:#005779 ;
+    cursor:pointer;
+}
+
+#pseudoNavbar{
+    font-size: 25px;
+    width: 25%;
+    text-align: center;
+    height: 50%;
+}
+
+@media (max-width: 700px) {
+    .premierLink,.deuxiemeLink,.troisiemeLink,.quatriemeLink{
+        font-size: 15px;
+    }
+
+    #pseudoNavbar{
+        font-size: 15px;
+        height: 35%;
+    }
+  }
